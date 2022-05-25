@@ -1,5 +1,4 @@
 - 👋 Hi, I'm Niranjana Padmanabhan
-- 👀 I’m interested in the field of Data Analysis
 - 📫 How to reach me : itsniranju@gmail.com
 
 <!---
